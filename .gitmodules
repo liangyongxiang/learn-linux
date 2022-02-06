@@ -1,0 +1,3 @@
+[submodule "repos/linux"]
+	path = repos/linux
+	url = https://github.com/torvalds/linux.git
